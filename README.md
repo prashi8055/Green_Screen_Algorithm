@@ -1,4 +1,4 @@
-###Green_Screen_Algorithm
+##Green_Screen_Algorithm
 ---
 - Chroma key compositing, or chroma keying, is a visual-effects and post-production technique for compositing (layering) two images or video streams together based on colour hues (chroma range).
 - The technique has been used in many fields to remove a background from the subject of a photo or video – particularly the newscasting, motion picture, and video game industries.
