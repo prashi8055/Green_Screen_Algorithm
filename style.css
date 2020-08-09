@@ -1,0 +1,53 @@
+*{
+  margin:0;
+  padding:0;
+}
+body{
+background-image:linear-gradient( #33ccff, #ff99cc) ;
+background-repeat: auto;
+}
+#c1btn{
+  color:white;
+background-image: linear-gradient( #33ccff, #ff99cc);
+  color:black;
+  width:200px;
+  height:60px;
+  font-weight:bold;
+  font-size:16pt;
+  text-align:center;
+  margin:0px 100px 0px 100px;
+}
+#c1btn:hover{
+  background-color:white;
+    background-image:linear-gradient(#e7aeae, #5f0979);
+  color:white;
+}
+canvas{
+  position:relative;
+  border:2px solid black;
+  width:40%;
+  height:auto;
+  left:20px;
+  right:20px;
+  margin: 0px 40px 0px 40px
+}
+header{
+  background-image:url("http://cleanpublicdomain.com/wp-content/uploads/2020/04/dark-blue-background-with-stripe-pattern-vector-22975748-1.jpg");
+  padding-top:10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  color:white;
+  text-align:center;
+  margin:auto;
+}
+h3{
+text-align:center;
+padding-top:20px;
+padding-bottom:20px;
+font-size:30pt;
+font-weight:bold;
+}
+tr td img{
+float:left;
+margin: 0px 40px 0px 40px
+}
